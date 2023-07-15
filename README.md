@@ -1,3 +1,3 @@
 # master
-this is not master branch
->>>>>>> main
+this is master branch
+kapil
